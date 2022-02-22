@@ -9,8 +9,8 @@ For brevity, the references are each listed with only one main author.
 
 ## Background
 
-- [Sufficient Dimension Reduction Methods and Applications with R (1st)](https://www.routledge.com/Sufficient-Dimension-Reduction-Methods-and-Applications-with-R/Li/p/book/9780367734725)
-- [Reduced Rank Regression: With Applications to Quantitative Structure-Activity Relationships](https://link.springer.com/book/10.1007/978-3-642-50015-2)
+- 1 [Sufficient Dimension Reduction Methods and Applications with R (1st)](https://www.routledge.com/Sufficient-Dimension-Reduction-Methods-and-Applications-with-R/Li/p/book/9780367734725)
+- 2 [Reduced Rank Regression: With Applications to Quantitative Structure-Activity Relationships](https://link.springer.com/book/10.1007/978-3-642-50015-2)
 - [Multivariate Reduced-Rank Regression: Theory and Applications](https://link.springer.com/book/10.1007/978-1-4757-2853-8)
 
 - [Canonical Correlation Analysis (CCA)](https://en.wikipedia.org/wiki/Canonical_correlation)
