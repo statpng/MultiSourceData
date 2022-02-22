@@ -16,7 +16,7 @@ For brevity, the references are each listed with only one main author.
 
 - 2011 - J. Chemometrics - Tommy Lofstedt - [OnPLS a novel multiblock method for the modelling of predictive and orthogonal](https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/full/10.1002/cem.1388)
 - 2013 - AOAS - Eric F. Lock - JIVE [Joint and individual variation explained (jive) for integrated analysis of multiple data types](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3671601/)
-- 2013 - Comp. Stat. - Herve ́Abdi - [Multiple factor analysis: principal component analysis for multitable and multiblock data sets](https://wires.onlinelibrary.wiley.com/doi/full/10.1002/wics.1246)
+- 2013 - Comp. Stat. - Herve Abdi - [Multiple factor analysis: principal component analysis for multitable and multiblock data sets](https://wires.onlinelibrary.wiley.com/doi/full/10.1002/wics.1246)
 - 2014 - NeuroImage - Kamil Uludag - [General overview on the merits of multimodal neuroimaging data fusion](https://www.sciencedirect.com/science/article/pii/S1053811914003838)
 - 2016 - Annual Review of Stat. - Sylvia Richardson - [Statistical Methods in Integrative Genomics](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4963036/)
 - 2016 - Bioinformatics - Zi Yang - [A non-negative matrix factorization method for detecting modules in heterogeneous omics multi-modal data](https://pubmed.ncbi.nlm.nih.gov/26377073/)
