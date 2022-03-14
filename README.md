@@ -8,6 +8,7 @@ For brevity, the references are each listed in APA format from google scholar.
 - Palzer, E. F., Wendt, C., Bowler, R., Hersh, C. P., Safo, S. E., & Lock, E. F. (2021). sJIVE: Supervised Joint and Individual Variation Explained. arXiv preprint arXiv:2102.13278.
 - Hilafu, H., Safo, S. E., & Haine, L. (2020). Sparse reduced-rank regression for integrating omics data. BMC bioinformatics, 21(1), 1-17.
 - Chen, L., & Huang, J. Z. (2012). Sparse reduced-rank regression for simultaneous dimension reduction and variable selection. Journal of the American Statistical Association, 107(500), 1533-1545.
+  * Yuan, M., Ekici, A., Lu, Z., & Monteiro, R. (2007). Dimension reduction and coefficient estimation in multivariate linear regression. Journal of the Royal Statistical Society: Series B (Statistical Methodology), 69(3), 329-346.
 - Gaynanova, I., & Li, G. (2019). Structural learning and integrative decomposition of multi‐view data. Biometrics, 75(4), 1121-1132.
 
 For an extended version,
