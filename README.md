@@ -1,11 +1,21 @@
 # Inference on Multi-Source Data Integration
 
-
 For brevity, the references are each listed with only one main author.
 
 
-## Software packages and methods
+## Main articles
 
+- Palzer, E. F., Wendt, C., Bowler, R., Hersh, C. P., Safo, S. E., & Lock, E. F. (2021). sJIVE: Supervised Joint and Individual Variation Explained. arXiv preprint arXiv:2102.13278.
+- Hilafu, H., Safo, S. E., & Haine, L. (2020). Sparse reduced-rank regression for integrating omics data. BMC bioinformatics, 21(1), 1-17.
+- Chen, L., & Huang, J. Z. (2012). Sparse reduced-rank regression for simultaneous dimension reduction and variable selection. Journal of the American Statistical Association, 107(500), 1533-1545.
+- Gaynanova, I., & Li, G. (2019). Structural learning and integrative decomposition of multi‐view data. Biometrics, 75(4), 1121-1132.
+
+For an extended version,
+- Zhu, H., Li, G., & Lock, E. F. (2020). Generalized integrative principal component analysis for multi-type data with block-wise missing structure. Biostatistics, 21(2), 302-318.
+
+
+
+## Software packages and methods
 
 ## Background
 
