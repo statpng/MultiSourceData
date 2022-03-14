@@ -1,6 +1,6 @@
 # Inference on Multi-Source Data Integration
 
-For brevity, the references are each listed with only one main author.
+For brevity, the references are each listed by the APA format from google scholar.
 
 
 ## Main articles
