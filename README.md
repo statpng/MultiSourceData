@@ -47,3 +47,13 @@ For an extended version,
 
 
 
+
+
+
+
+## Factor Rotation
+
+### Criteria
+
+- quartimax criterion
+
