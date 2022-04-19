@@ -56,4 +56,7 @@ For an extended version,
 ### Criteria
 
 - quartimax criterion
+- Varimax : Kaiser, Henry F. 1958. “The Varimax Criterion for Analytic Rotation in Factor Analysis.” Psychometrika 23(3): 187–200.
+- Oblique Rotation
+- 
 
