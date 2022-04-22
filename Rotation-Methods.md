@@ -30,3 +30,4 @@
 
 For more details, see
 - Gorsuch, R. L. (2014). Factor analysis: Classic edition. Routledge.
+- Bernaards, C. A., & Jennrich, R. I. (2005). Gradient projection algorithms and software for arbitrary rotation criteria in factor analysis. Educational and Psychological Measurement, 65(5), 676-696.
