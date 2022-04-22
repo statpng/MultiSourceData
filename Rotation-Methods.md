@@ -6,7 +6,6 @@
 
 | Name | Oblique | Principle | Comments
 | ----------- | ----------- | ----------- | ----------- |
-| Header | Title |
 | Binormamin (Kaiser & Dickman, 1959) | Yes | Combines quartimin and covarimin criteria | |
 | Biquartimin (Carroll, 1957) | Yes | Equally weights quartimin and covarimin criteria | Usually good, but occasional .8 correlation between two factors. |
 | Covarimin (Kaiser, 1958) | Yes | Minimizes sum of covariances of squared factor loadings | GIves almost uncorrelated factors |
