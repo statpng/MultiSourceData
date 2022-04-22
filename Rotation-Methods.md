@@ -29,5 +29,4 @@
 
 
 For more details, see
-
-* Gorsuch, R. L. (2014). Factor analysis: Classic edition. Routledge. *
+- Gorsuch, R. L. (2014). Factor analysis: Classic edition. Routledge.
