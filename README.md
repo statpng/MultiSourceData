@@ -21,11 +21,14 @@ For an extended version,
 
 
 
-| Title | Code Availability |
-| ----------- | ----------- |
-| A fully Bayesian approach to sparse reduced-rank multivariate regression | X |
-|  |  |
-
+| Title | Author | Journal (Year) | Code Availability |
+| ----------- | ----------- | ----------- | ----------- |
+| Bayesian sparse reduced rank multivariate regression | Goh, G. | JMA (2017) | X |
+| A fully Bayesian approach to sparse reduced-rank multivariate regression | Goh, G. | Stat. Modelling (2022) | X |
+| Sparse Reduced-Rank Regression for Simultaneous Dimension Reduction and Variable Selection | Lisha Chen | JASA (2012) | "rrpack" |
+| Reduced rank stochastic regression with a sparse singular value decomposition: Reduced Rank Stochastic Regression | Kun Chen | JRSSB (2012) | "rrpack" |
+| Reduced rank regression via adaptive nuclear norm penalization | Kun Chen | Biometrika (2013) | "rrpack" |
+| sJIVE: Supervised Joint and Individual Variation Explained | Palzer EF, Lock EF | arXiv (2021) | "https://github.com/lockEF/r.jive" |
 
 
 
