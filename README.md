@@ -20,7 +20,7 @@ For an extended version,
 ## Software packages and methods
 
 
--------------------
+|-|-|-|
 A fully Bayesian approach to sparse reduced-rank multivariate regression
 -------------------
 
