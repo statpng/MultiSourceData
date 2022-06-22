@@ -19,6 +19,13 @@ For an extended version,
 
 ## Software packages and methods
 
+
+-------------------
+A fully Bayesian approach to sparse reduced-rank multivariate regression
+-------------------
+
+
+
 ## Background
 
 - [Sufficient Dimension Reduction Methods and Applications with R (1st)](https://www.routledge.com/Sufficient-Dimension-Reduction-Methods-and-Applications-with-R/Li/p/book/9780367734725)
