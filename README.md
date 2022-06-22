@@ -29,7 +29,7 @@ For an extended version,
 | Reduced rank stochastic regression with a sparse singular value decomposition: Reduced Rank Stochastic Regression | Kun Chen | JRSSB (2012) | "rrpack" |
 | Reduced rank regression via adaptive nuclear norm penalization | Kun Chen | Biometrika (2013) | "rrpack" |
 | sJIVE: Supervised Joint and Individual Variation Explained | Palzer EF, Lock EF | arXiv (2021) | "https://github.com/lockEF/r.jive" |
-
+| Signal extraction approach for sparse multivariate response regression | Ruiyan Luo, Xin Qi | JMA (2017) | SiER |
 
 
 ## Background
