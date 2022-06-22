@@ -24,7 +24,7 @@ For an extended version,
 | Title | Code Availability |
 | ----------- | ----------- |
 | A fully Bayesian approach to sparse reduced-rank multivariate regression | X |
-| ----------- | ----------- |
+|  |  |
 
 
 
