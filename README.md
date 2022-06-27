@@ -30,7 +30,7 @@ For an extended version,
 | Reduced rank regression via adaptive nuclear norm penalization | Kun Chen | Biometrika (2013) | "rrpack" |
 | sJIVE: Supervised Joint and Individual Variation Explained | Palzer EF, Lock EF | arXiv (2021) | "https://github.com/lockEF/r.jive" |
 | Signal extraction approach for sparse multivariate response regression | Ruiyan Luo, Xin Qi | JMA (2017) | SiER |
-
+| iRRR: Integrative multi-view regression: Bridging group-sparse and low-rank models | Gen Li | Biometrics (2018) | https://github.com/reagan0323/iRRR |
 
 ## Background
 
