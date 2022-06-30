@@ -28,6 +28,7 @@ For an extended version,
 | Sparse Reduced-Rank Regression for Simultaneous Dimension Reduction and Variable Selection | Lisha Chen | JASA (2012) | "rrpack" |
 | Reduced rank stochastic regression with a sparse singular value decomposition: Reduced Rank Stochastic Regression | Kun Chen | JRSSB (2012) | "rrpack" |
 | Reduced rank regression via adaptive nuclear norm penalization | Kun Chen | Biometrika (2013) | "rrpack" |
+| SOFAR: Large-Scale Association Network Learning | Uematsu, Kun Chen | IEEE (2019) | "SOFAR" |
 | sJIVE: Supervised Joint and Individual Variation Explained | Palzer EF, Lock EF | arXiv (2021) | "https://github.com/lockEF/r.jive" |
 | Signal extraction approach for sparse multivariate response regression | Ruiyan Luo, Xin Qi | JMA (2017) | SiER |
 | iRRR: Integrative multi-view regression: Bridging group-sparse and low-rank models | Gen Li | Biometrics (2018) | https://github.com/reagan0323/iRRR| 
